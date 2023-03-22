@@ -1,5 +1,9 @@
 import turtle
 
+'''
+Created by DEDMURDERER
+'''
+
 screen = turtle.Screen()
 
 drawer = turtle.Turtle()
