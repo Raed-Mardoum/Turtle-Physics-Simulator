@@ -1,7 +1,7 @@
 import turtle
 
 '''
-Created by DEDMURDERER
+Created by Raed Mardoum
 '''
 
 screen = turtle.Screen()
